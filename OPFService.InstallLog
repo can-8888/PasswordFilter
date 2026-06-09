@@ -1,0 +1,13 @@
+﻿Installing assembly 'C:\OpenPasswordFilter\OPFService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\OpenPasswordFilter\OPFService.exe
+   logfile = C:\OpenPasswordFilter\OPFService.InstallLog
+Installing service OPF...
+Service OPF has been successfully installed.
+Creating EventLog source OPF in log Application...
+Committing assembly 'C:\OpenPasswordFilter\OPFService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   assemblypath = C:\OpenPasswordFilter\OPFService.exe
+   logfile = C:\OpenPasswordFilter\OPFService.InstallLog
