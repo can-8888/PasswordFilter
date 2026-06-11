@@ -1,10 +1,1 @@
-09.04.2023 12:49:25: Only one usage of each socket address (protocol/network address/port) is normally permitted
-StackTrace :   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
-   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
-   at OPFService.NetworkService.main()
-
-08.08.2024 13:30:55: Only one usage of each socket address (protocol/network address/port) is normally permitted
-StackTrace :   at System.Net.Sockets.Socket.DoBind(EndPoint endPointSnapshot, SocketAddress socketAddress)
-   at System.Net.Sockets.Socket.Bind(EndPoint localEP)
-   at OPFService.NetworkService.main()
 
